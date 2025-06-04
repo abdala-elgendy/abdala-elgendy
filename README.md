@@ -42,6 +42,11 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" />
     </a>
     &emsp;
+      
+    <a href="https://atcoder.jp/users/abdalaelgendy" target="blank">
+        <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atcoder-programming-competition-platform-logo-color-tal-revivo.png" alt="AtCoder" height="40" width="40" />
+    </a>
+    &emsp;
     <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_authorstats&userid=1485879" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/UVa_logo.png" alt="UVa Online Judge" height="40" width="40" />
     </a>
