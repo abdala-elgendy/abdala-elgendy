@@ -46,7 +46,8 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
         <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder" height="40" width="40" />
     </a>
     &emsp;
-    <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_authorstats&userid=1485879" target="blank">
+   <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_authorstats&userid=1485879" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/UVa_logo.svg/1200px-UVa_logo.svg.png" alt="UVa Online Judge" height="40" width="40" />
     </a>
 </p>
 <br>
