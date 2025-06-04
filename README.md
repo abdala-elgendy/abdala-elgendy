@@ -43,7 +43,7 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
     </a>
     &emsp;
     <a href="https://atcoder.jp/users/abdalaelgendy" target="blank">
-        <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atcoder-programming-competition-platform-logo-color-tal-revivo.png" alt="AtCoder" height="40" width="40" />
+        <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder" height="40" width="40" />
     </a>
     &emsp;
     <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_authorstats&userid=1485879" target="blank">
