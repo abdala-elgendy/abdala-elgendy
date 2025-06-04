@@ -30,28 +30,26 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
 ## My Competitive Programming Profiles
 
 <p>
-    <a href="https://codeforces.com/profile/abdala-elgendy" target="_blank">
+    <a href="https://codeforces.com/profile/abdala-elgendy" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
     </a>
-    &emsp;
-    <a href="https://leetcode.com/u/abdullah_elgendy/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="35" width="30" />
+    &emsp; 
+    <a href="https://leetcode.com/u/abdullah_elgendy/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="30" />
     </a>
-    &emsp;
-    <a href="https://www.hackerrank.com/profile/elgendyabdala" target="_blank">
+    &emsp; 
+    <a href="https://www.hackerrank.com/profile/elgendyabdala" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" />
     </a>
     &emsp;
-      
     <a href="https://atcoder.jp/users/abdalaelgendy" target="blank">
         <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atcoder-programming-competition-platform-logo-color-tal-revivo.png" alt="AtCoder" height="40" width="40" />
     </a>
     &emsp;
-    <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_authorstats&userid=1485879" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/UVa_logo.png" alt="UVa Online Judge" height="40" width="40" />
+    <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_authorstats&userid=1485879" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/UVa_logo.svg/1200px-UVa_logo.svg.png" alt="UVa Online Judge" height="40" width="40" />
     </a>
 </p>
-
 <br>
 
 <h2>Programming Skills & Developer Tools</h2>
