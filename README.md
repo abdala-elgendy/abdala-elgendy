@@ -23,6 +23,9 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
     <a href="mailto:elgendyabdala@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/>
     </a>
+        <a href="https://x.com/AbdalaElgendy00">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+    </a>
 </p>
 
 <br>
