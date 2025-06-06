@@ -23,6 +23,9 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
     <a href="mailto:elgendyabdala@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/>
     </a>
+       <a href="https://t.me/abdalaElgendY">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"/>
+    </a>
         <a href="https://x.com/AbdalaElgendy00">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
     </a>
@@ -71,7 +74,8 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
     </a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
+    </a>    
+    <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a>
