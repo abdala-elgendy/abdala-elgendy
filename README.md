@@ -110,6 +110,15 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
     </a>
 </p>
+---
+
+## 📚 Articles & Blog Posts
+
+Here are some of my writings and knowledge-sharing posts:
+
+- [🧠 Roadmap to Master Database Internals](https://www.linkedin.com/feed/update/urn:li:activity:7340023465313275905/)
+- [💻 Studying Operating Systems with *Three Easy Pieces*](https://www.linkedin.com/feed/update/urn:li:activity:7337490923309707264/)
+
 
 ## 🔧 More Coming Soon...
 
