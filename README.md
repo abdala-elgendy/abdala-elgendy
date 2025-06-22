@@ -110,7 +110,7 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
     </a>
 </p>
----
+----
 
 ## 📚 Articles & Blog Posts
 
