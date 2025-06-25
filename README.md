@@ -53,7 +53,7 @@ I'm a passionate backend-focused software engineer who enjoys solving complex pr
     </a>
     &emsp;
   <a href="https://icpc.global/ICPCID/QOMNSYCSS7RP" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ICPC_International_Collegiate_Programming_Contest_logo.svg/2560px-ICPC_International_Collegiate_Programming_Contest_logo.svg" alt="ICPC" height="40"/>
+   ICPC 
 </a>
   </a>
 </p>
