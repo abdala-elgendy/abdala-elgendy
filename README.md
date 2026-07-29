@@ -6,9 +6,9 @@
 
 ## About Me
 
-- 🎓 I'm a CS Student **@FCI - Tanta University**.
-- 🧑‍🎓 I’m currently learning `Computer Science`, `Backend Development`, and `DevOps`.
-- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](https://drive.google.com/file/d/1h6Gm6RagX7y-uD3nynNfjOf1qIJcBxjZ/view?usp=sharing).
+- 🎓 I'm a CS graduated from **@FCI - Tanta University**.
+- 🧑‍🎓 I've strong foundation in`Computer Science`, `Backend Development`.
+- 📂 Here's [MY RESUME](https://drive.google.com/file/d/1h6Gm6RagX7y-uD3nynNfjOf1qIJcBxjZ/view?usp=sharing).
 
 <br>
 
@@ -127,5 +127,4 @@ I'm continuously expanding my skill set, especially in:
 - Docker & Kubernetes
 - System Design
 - Distributed Systems
-- Cloud Platforms (AWS/GCP)
 - CI/CD & Monitoring
